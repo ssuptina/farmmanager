@@ -293,7 +293,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sanjay**
+**Teena**
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
