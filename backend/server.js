@@ -64,6 +64,15 @@ app.use("/api/workers", workerRoutes);
 app.use("/api/tasks", taskRoutes);
 app.use("/api/notifications", notificationRoutes);
 app.use("/api/calendar", calendarRoutes);
+// Root route for health check
+app.get("/", (req, res) => {
+  res.json({
+    success: true,
+    message: "Farm Manager backend is live",
+    environment: process.env.NODE_ENV,
+    time: new Date().toISOString(),
+  });
+});
 
 // Health check
 app.get("/api", (req, res) => {

@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Teena**
 **Teena**
 - GitHub: [@ssuptina](https://github.com/ssuptina)
-
+/*- GitHub: [@USERNAME](https://github.com/USERNAME)*/
 
 ---
 
