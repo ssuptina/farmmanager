@@ -1,4 +1,4 @@
-🌐 **Live Demo:** https://farmmanager-gray.vercel.app/
+🌐 **Live Demo:** https://farmmanager-gray.vercel.app
 # 🐔 Farm Manager
 
 A full-stack poultry farm management system designed to help farmers efficiently manage daily operations, including flock management, inventory, sales, expenses, worker management, and business analytics through a modern web interface.
