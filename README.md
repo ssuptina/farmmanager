@@ -68,7 +68,7 @@ The application will run locally after starting both servers.
 ##Live demo Link
 ---
 
-https://farm-manager-gray.vercel.app
+https://farmmanager-gray.vercel.app
 ---
 
 ## 🎯 Future Improvements
