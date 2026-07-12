@@ -1,3 +1,4 @@
+🌐 **Live Demo:** https://farmmanager-gray.vercel.app/
 # 🐔 Farm Manager
 
 A full-stack poultry farm management system designed to help farmers efficiently manage daily operations, including flock management, inventory, sales, expenses, worker management, and business analytics through a modern web interface.
@@ -64,11 +65,6 @@ npm run dev
 
 The application will run locally after starting both servers.
 
----
-##Live demo Link
----
-
-https://farmmanager-gray.vercel.app
 ---
 
 ## 🎯 Future Improvements
